@@ -447,7 +447,7 @@ class com.ElTorqiro.AegisHUD.App {
 	 * aggregate function for managing all default ui elements
 	 */
 	private static function manageDefaultUiElements() : Void {
-		hideDefaultUiDisruptorSelectors();
+		//hideDefaultUiDisruptorSelectors();
 		manageDefaultUiShieldButton();
 	}
 	
